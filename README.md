@@ -17,6 +17,15 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 ## Screenshots
 
 <img width="400px" src="./1.png" />
+<img width="400px" src="./2.jpg" />
+<img width="400px" src="./3.jpg" />
+<img width="400px" src="./4.jpg" />
+<img width="400px" src="./5.jpg" />
+<img width="400px" src="./6.jpg" />
+<img width="400px" src="./7.jpg" />
+<img width="400px" src="./8.jpg" />
+<img width="400px" src="./9.jpg" />
+<img width="400px" src="./10.jpg" />
 
 ## Problems
 
